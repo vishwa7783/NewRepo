@@ -1,1 +1,2 @@
 This file is from feature1 branch.
+Adding content to file2
